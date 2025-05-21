@@ -16,7 +16,7 @@ I'm a Computer Engineer with a strong foundation in machine learning, deep learn
 
 ## I'm Passionate About
 
-- Building accessible AI for healthcare and the environment  
+- Building accessible AI for various applications  
 - Exploring the capabilities of large language models (LLMs)  
 - Making machine learning explainable, interactive, and impactful  
 - Continuous learning and collaboration
