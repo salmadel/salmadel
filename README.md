@@ -9,7 +9,7 @@ I'm a Computer Engineer with a strong foundation in machine learning, deep learn
 
 - Develop ML models using Python, TensorFlow, Keras, and Scikit-learn  
 - Work with structured, unstructured, and image data (NLP & CV)  
-- Design and deploy data-driven applications using Flask and REST APIs  
+- Design and deploy data-driven applications using Flask  
 - Analyze data with Pandas, NumPy, Seaborn, and Matplotlib  
 - Explore cutting-edge tools like Hugging Face Transformers and MLOps basics
 
@@ -24,7 +24,6 @@ I'm a Computer Engineer with a strong foundation in machine learning, deep learn
 
 ## Where to Find Me
 
-- GitHub: [@salmadel](https://github.com/salmadel)  
 - LinkedIn: [Salma Adel](https://www.linkedin.com/in/salma-adel-035011252)  
 - Email: [salma.adel.saleh.10@gmail.com](mailto:salma.adel.saleh.10@gmail.com)
 
